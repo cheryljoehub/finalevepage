@@ -13,7 +13,7 @@ const WEEK_OF = "July 7, 2026";
 const EVENTS = [
   {
     day: "Monday",
-    date: "July 7",
+    date: "July 13",
     time: "11:00 AM – 1:00 PM",
     title: "Resume Review Walk-In Hours",
     location: "CCoB Lobby, Table 2",
@@ -22,7 +22,7 @@ const EVENTS = [
   },
   {
     day: "Tuesday",
-    date: "July 8",
+    date: "July 14",
     time: "5:30 PM – 7:00 PM",
     title: "Finance Club General Meeting",
     location: "Room 214",
@@ -31,7 +31,7 @@ const EVENTS = [
   },
   {
     day: "Wednesday",
-    date: "July 9",
+    date: "July 15",
     time: "12:00 PM – 2:00 PM",
     title: "Employer Info Session: Example Corp",
     location: "CCoB Auditorium",
@@ -40,25 +40,25 @@ const EVENTS = [
   },
   {
     day: "Thursday",
-    date: "July 10",
+    date: "July 16",
     time: "3:00 PM – 4:30 PM",
     title: "Mock Interview Workshop",
     location: "Career Services Suite",
     desc: "Practice a real interview with feedback from career coaches. Sign-up required.",
     link: "#"
   },
-  /*{
-    day: "Saturday",
-    date: "July 12",
-    time: "10:00 AM – 12:00 PM",
+  {
+    day: "Friday",
+    date: "July 17",
+/*    time: "10:00 AM – 12:00 PM",
     title: "Resume Workshop",
     location: "Student Center, Room 101",
     desc: "Open session for resume tips and one-on-one feedback from campus career advisors.",
-    link: "#"
-  },*/
+    link: "#"*/
+  },
   /*{
     day: "Saturday",
-    date: "July 12",
+    date: "July 17",
     time: "10:00 AM – 12:00 PM",
     title: "Resume Workshop",
     location: "Student Center, Room 101",
