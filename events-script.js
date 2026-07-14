@@ -46,16 +46,16 @@ const EVENTS = [
     location: "Career Services Suite",
     desc: "Practice a real interview with feedback from career coaches. Sign-up required.",
     link: "#"
-  },
-  {
+  }
+/*  {
     day: "Friday",
     date: "July 17",
-/*    time: "10:00 AM – 12:00 PM",
+  time: "10:00 AM – 12:00 PM",
     title: "Resume Workshop",
     location: "Student Center, Room 101",
     desc: "Open session for resume tips and one-on-one feedback from campus career advisors.",
-    link: "#"*/
-  },
+    link: "#"
+  },*/
   /*{
     day: "Saturday",
     date: "July 17",
